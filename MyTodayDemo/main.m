@@ -11,7 +11,6 @@
 
 int main(int argc, char * argv[]) {
     @autoreleasepool {
-        NSLog(@"hello ios8 widget today!");
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
     }
 }
